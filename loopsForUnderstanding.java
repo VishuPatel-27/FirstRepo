@@ -5,7 +5,7 @@ public class loopsForUnderstating{
 		byte i;
 		
 		for(i=0;i<=7;i++){
-			System.out.println("Hello from JAVA !");
+			System.out.println("HelloWorld!");
 		}
 	}
 }
